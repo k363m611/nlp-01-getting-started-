@@ -62,3 +62,6 @@ nav = [
     { "Glossary" = "glossary.md" },
     { "Project Instructions" = "project-instructions.md" },
 ]
+
+author = "Katie McGaughey"
+github = "https://github.com/k363m611"

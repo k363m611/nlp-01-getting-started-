@@ -131,3 +131,9 @@ git push -u origin main
 ## Example Artifact (Output)
 
 ![Word Cloud Example](docs/images/word_cloud_example.png)
+
+## Author
+
+**Katie McGaughey**  
+GitHub: https://github.com/k363m611  
+GitHub Pages: https://k363m611.github.io/nlp-01-getting-started/
